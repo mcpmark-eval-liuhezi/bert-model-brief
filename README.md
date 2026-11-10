@@ -12,7 +12,7 @@ One-page brief on the canonical uncased BERT base model for the model-selection 
 
 ## Live-source data (checked against live sources at time of writing)
 
-- **Downloads (Hugging Face Hub, at time of writing):** 3285.4M (~3.29 billion)
+- **Downloads (Hugging Face Hub, at time of writing):** 3291.4M (~3.29 billion)
 - **Paper submission date (arXiv abstract page):** 11 Oct 2018
 
 ## Sources
