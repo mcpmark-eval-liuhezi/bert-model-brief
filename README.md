@@ -19,3 +19,4 @@ All facts below were checked against live sources (Hugging Face Hub and arXiv) a
 
 - Hugging Face Hub listing: https://huggingface.co/google-bert/bert-base-uncased
 - arXiv abstract page: https://arxiv.org/abs/1810.04805
+- Source: arXiv:1810.04805
