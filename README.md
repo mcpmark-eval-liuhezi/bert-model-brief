@@ -7,7 +7,7 @@ Reference model for the model-selection meeting: `google-bert/bert-base-uncased`
 - **Model:** `google-bert/bert-base-uncased` (canonical uncased BERT base model)
 - **Task:** fill-mask
 - **License:** apache-2.0
-- **Paper:** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (arXiv:1810.04805) - SOURCE: arXiv:1810.04805
+- **Paper:** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (arXiv:1810.04805) — Source: arXiv:1810.04805
 
 ## Live-source data (verified today)
 
