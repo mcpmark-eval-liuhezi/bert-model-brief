@@ -19,7 +19,7 @@ Reference model for the model-selection meeting: `google-bert/bert-base-uncased`
 
 - **Authors:** Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 - **Submitted on:** 11 Oct 2018 (Thu, 11 Oct 2018 00:50:01 UTC); current version v2, revised 24 May 2019
-- **arXiv abstract page:** https://arxiv.org/abs/1810.04805
+- **arXiv abstract page:** https://arxiv.org/abs/1810.04805 (Source: arXiv:1810.04805)
 
 ## Model details on the Hub
 
