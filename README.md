@@ -11,7 +11,7 @@ Reference model for the model-selection meeting: `google-bert/bert-base-uncased`
 
 ## Live-source data (verified today)
 
-- **Downloads (Hugging Face Hub, as reported today):** 3292.5M (~3.3 billion)
+- **Downloads (Hugging Face Hub, as reported today):** 3293.6M (~3.29 billion)
 - **Paper submission date (arXiv abstract page):** 11 Oct 2018 (v1), last revised 24 May 2019 (current version v2)
 - **Paper title (arXiv abstract page):** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
